@@ -12,7 +12,7 @@ let cleanOptions = {
 }
 
 module.exports = {
-  mode: 'development', 
+  mode: 'development',
   entry: {
     app: './src/index.js',
     print: './src/print.js'
